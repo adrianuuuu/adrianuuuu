@@ -37,3 +37,10 @@ SOBRE MIM
   [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?srsltid=AfmBOooQw_MvpaLHjl65ORrSqa_Y0Jfe88kIq1gJB-0mjyonwtw3lP_S)
   [![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.alura.com.br/artigos/react-js?srsltid=AfmBOooM1mF-j5qC7nHCpmzmMyOcJltAgPr-0od21psc0bMtJjdCThYo)
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?srsltid=AfmBOor1g0dj0Wu6UJmld2A_A4ytjjfcox7QAtu3Mfq1X-CdSTkD0CEC)
+
+## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
+ [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.hostgator.com.br/blog/linux-tudo-sobre-sistema/)
+ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.techtudo.com.br/tudo-sobre/windows/)
+ [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-ubuntu-linux)
+ [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/intro/about.pt.html)
+ [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://canaltech.com.br/macos/o-que-e-macos/)
