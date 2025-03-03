@@ -37,7 +37,7 @@ SOBRE MIM
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
             <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-            <img align="right" width="380px" display="flex" justify-content="space-between" margin-right="30px" alt="GIF description" src="./Skills_Animation_White.gif">
+            <img align="left" width="380px" display="flex" justify-content="space-between" alt="GIF description" src="./Skills_Animation_White.gif">
           </picture>
  </table>
  
