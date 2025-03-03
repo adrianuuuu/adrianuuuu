@@ -33,9 +33,9 @@ SOBRE MIM
           <li>🌐| Dev Full Stack...</li>
           <li>👥| Trabalho em equipe e comunicação...</li>
           <li>👥| Proatividade...</li>
-          <li>👥| Criatividade em projetos...</li>
-          <li>👥| Javascript, Typescript, NodeJS...</li>
-          <li>👥| HTML, CSS, VScode...</li>
+          <li>💡| Criatividade em projetos...</li>
+          <li>💻| Javascript, Typescript, NodeJS...</li>
+          <li>⚛️| HTML, CSS, VScode...</li>
           <li>👥| MySQL...</li>
         </ul>
       </td>
