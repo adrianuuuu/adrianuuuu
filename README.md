@@ -14,7 +14,14 @@ SOBRE MIM
 - Concluindo meu curso de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na ESTÁCIO (EAD) | 5° semestre. Com conteúdos voltados para Análise de requisitos, Arquitetura de software, Banco de dados, Gestão de projetos, Desenvolvimento de software seguro, Fundamentos de redes de computadores, Matemática aplicada à informática e Programação e design para web.
 
 ##  
- <table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" width="380px" alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+  
+   <table align="center">
     <tr>
       <td>
         <ul>
@@ -33,15 +40,8 @@ SOBRE MIM
         </ul>
       </td>
     </tr>
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-            <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-            <img align="left" width="380px" display="flex" justify-content="space-between" alt="GIF description" src="./Skills_Animation_White.gif">
-          </picture>
  </table>
- 
 
- 
   ##  ⚛️| Linguagens de programação que uso para o desenvolvimento web e mobile:
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
