@@ -25,10 +25,23 @@ SOBRE MIM
           <li>🔎| Pesquisa Científica...</li>
           <li>⚙️| Engenharia de Software...</li>
           <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Trabalho em equipe e comunicação...</li>
         </ul>
       </td>
     </tr>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+            <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+            <img align="right" width="430px" display="flex" justify-content="space-between" margin-right="30px" alt="GIF description" src="./Skills_Animation_White.gif">
+          </picture>
  </table>
+ 
+
  
   ##  ⚛️| Linguagens de programação que uso para o desenvolvimento web e mobile:
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
