@@ -14,8 +14,7 @@ SOBRE MIM
 - Concluindo meu curso de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na ESTÁCIO (EAD) | 5° semestre. Com conteúdos voltados para Análise de requisitos, Arquitetura de software, Banco de dados, Gestão de projetos, Desenvolvimento de software seguro, Fundamentos de redes de computadores, Matemática aplicada à informática e Programação e design para web.
 
 ##  
-
- <table>
+ <table align="center">
     <tr>
       <td>
         <ul>
