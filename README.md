@@ -30,13 +30,13 @@ SOBRE MIM
           <li>🎲| Engenharia de Dados...</li>
           <li>🔎| Pesquisa Científica...</li>
           <li>⚙️| Engenharia de Software...</li>
+          <li>🌐| Dev Full Stack...</li>
           <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
-          <li>👥| Trabalho em equipe e comunicação...</li>
+          <li>👥| Proatividade...</li>
+          <li>👥| Criatividade em projetos...</li>
+          <li>👥| Javascript, Typescript, NodeJS...</li>
+          <li>👥| HTML, CSS, VScode...</li>
+          <li>👥| MySQL...</li>
         </ul>
       </td>
     </tr>
