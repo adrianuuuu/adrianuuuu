@@ -6,17 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adtechoficial/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FEuzDarw)
 
-
-##
-SOBRE MIM
-- Graduado no INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ em Técnico de Informática, tendo participado de diversos projetos voltados para o desenvolvimento de aplicações web e mobile (HTML, CSS, Javascript, MySQL) em constante aprendizado e aperfeiçoamento das minhas habilidades de DEV, participando de aulões semanais ao vivo com criação de projetos.
-  
-- Experiência empresarial de 3,5 anos na SECRETARIA DE INFRAESTRUTURA DE MARACANAÚ como Técnico da Tecnologia da Informação, responsável pelo Setor de Tecnologia responsável pelas manutenções corretivas e preventivas da rede de computadores, cabeamento estruturado de redes, instalações de programas, softwares e resoluções de problemas voltados para essa área.
-
-- Concluindo meu curso de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na ESTÁCIO (EAD) | 5° semestre. Com conteúdos voltados para Análise de requisitos, Arquitetura de software, Banco de dados, Gestão de projetos, Desenvolvimento de software seguro, Fundamentos de redes de computadores, Matemática aplicada à informática e Programação e design para web.
-
-##  
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
