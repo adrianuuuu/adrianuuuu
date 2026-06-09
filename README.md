@@ -134,10 +134,10 @@ Tenho experiência em ambiente corporativo de TI, desenvolvimento de sistemas in
   Evolução do sistema com novas funcionalidades e melhorias de arquitetura  
 
 - **Sistema Organizador de Casamentos**  
-  Desenvolvimento de uma solução que permitirá o arranjo e acompanhamento de um casamento  
+  Desenvolvimento de uma solução web que permitirá o arranjo e acompanhamento de um casamento  
 
-- **Gerador de Cronogrma para concursos**  
-  Desenvolvimento de uma solução web que vai permitir concurseiros a montarem seus cronogramas de estudos de forma estratégica  
+- **Gerador de Cronograma para concursos**  
+  Desenvolvimento de uma solução web que vai permitir que concurseiros montem seus cronogramas de estudos de forma estratégica  
 
 ---
 
