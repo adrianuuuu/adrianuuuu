@@ -1,145 +1,150 @@
 <img src="./banner capa01.jpg">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=3500&pause=500&color=235E9A&width=435&lines=Opa%2C+tranquilo%3F;Seja+bem+vindo+ao+meu+GitHub;Adriano+aqui+%E3%83%84" alt="Typing SVG" />
-</a>
+Adriano Mesquita
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Web+Designer+UX%2FUI;Interfaces+com+prop%C3%B3sito+e+clareza" alt="Typing SVG" />
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-mesquita-da-silva-b30151209/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adtechoficial/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FEuzDarw)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio_Online-000000?style=for-the-badge)](https://adrianuuuu.github.io/portfolio/)
+<br><br>
 
----
+Full Stack  ·  UX/UI  ·  APIs REST  ·  Automação com IA
 
-## 👨‍💻 Sobre mim
+<br> <!-- ============================================================ LINKS ============================================================ -->
 
-Desenvolvedor Full Stack com experiência prática em criação de aplicações web, APIs REST e integração de sistemas.  
-Atuo também com **Inteligência Artificial Generativa**, automações com **n8n** e integração de APIs de IA em soluções reais.
+Portfólio LinkedIn E-mail WhatsApp Instagram
 
-Tenho experiência em ambiente corporativo de TI, desenvolvimento de sistemas internos e melhoria de processos através de tecnologia.
+<br> <img src="https://img.shields.io/badge/Maranguape,_CE_—_Brasil-0D1117?style=flat-square&logo=googlemaps&logoColor=8B949E&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Aberto_a_oportunidades_remotas-0D1117?style=flat-square&logo=statuspage&logoColor=38BDF8&labelColor=0D1117" /> </div> <br>
+<br>
+Sobre
 
----
+Desenvolvedor Full Stack com experiência prática em sistemas em produção, atuando do banco de dados à interface — APIs REST, modelagem relacional, integrações entre serviços e telas usadas diariamente por usuários reais.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" width="380px" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+Hoje meu trabalho vive na fronteira entre engenharia e design: construo a aplicação e projeto a experiência dela. Interfaces que comunicam com clareza, fluxos que fazem sentido e código que sustenta os dois.
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>💻 Desenvolvimento Full Stack (Web)</li>
-        <li>⚙️ APIs REST e integração de sistemas</li>
-        <li>🧠 Inteligência Artificial Generativa</li>
-        <li>🤖 Automação com n8n e agentes de IA</li>
-        <li>🔗 Integração de APIs (OpenAI e externas)</li>
-        <li>⚛️ Frontend com React.js</li>
-        <li>🌐 Backend com Node.js e Express</li>
-        <li>🗄️ Banco de dados MySQL e PostgreSQL</li>
-        <li>🧪 Testes e análise de comportamento de IA</li>
-        <li>📊 Estruturação de fluxos e dados</li>
-        <li>👥 Comunicação técnica e trabalho em equipe</li>
-        <li>🧩 Resolução de problemas e pensamento analítico</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Também desenvolvo agentes de IA e automações com n8n, integrando sistemas a canais reais de atendimento.
 
----
+<br>
+Formação     Tecnólogo em Análise e Desenvolvimento de Sistemas — Estácio, 2025
+             Técnico em Informática — IFCE, 2021
 
-## ⚛️ Stack Técnica
+Atualmente   Assistente Técnico de TI · Desenvolvimento de Sistemas
+             SEINFRA — Secretaria de Infraestrutura de Maracanaú/CE
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Estudando    C# · .NET · TypeScript · Docker · Testes automatizados
+<br>
+<br>
+Stack
 
----
+Front-end
 
-## 🛡️ Sistemas Operacionais
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" /> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+Back-end e dados
 
----
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=C9D1D9&labelColor=0D1117" /> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" /> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117" /> <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FF2D20&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E&labelColor=0D1117" />
 
-## 🗂️ Ferramentas
+Design e prototipação
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=C9D1D9&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Illustrator-0D1117?style=flat-square&logo=adobeillustrator&logoColor=FF9A00&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Photoshop-0D1117?style=flat-square&logo=adobephotoshop&logoColor=31A8FF&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Canva-0D1117?style=flat-square&logo=canva&logoColor=00C4CC&labelColor=0D1117" />
 
----
+IA e automação
 
-## 🖌️ Design e Prototipação
+<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=D97757&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=C9D1D9&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Copilot-0D1117?style=flat-square&logo=githubcopilot&logoColor=C9D1D9&labelColor=0D1117" />
 
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+Ferramentas
 
----
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0D1117" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9&labelColor=0D1117" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117" /> <br>
+<br>
+Projetos
+<table> <tr> <td width="50%" valign="top">
+Sistema de Gestão de TI
 
-## 🚀 Projetos
+EM PRODUÇÃO
 
-### 🧠 Sistemas e APIs
+API REST para gestão de chamados e inventário de TI. CRUD completo, controle de status e prioridades, dashboard com indicadores e interface projetada do zero.
 
-- **Sistema de Gestão de TI – API REST**  
-  Sistema para gerenciamento de chamados internos com arquitetura escalável.  
-  ✔ CRUD completo  
-  ✔ Controle de status e prioridades  
-  ✔ Integração com banco de dados  
-  🔧 Node.js | Express | PostgreSQL  
+Node.js · Express · PostgreSQL · Knex · JWT
 
----
+Ver demonstração →
 
-### 🌐 Aplicações Web
+</td> <td width="50%" valign="top">
+ATLAS
 
-- **Portfólio Profissional Online**  
-  Website responsivo para apresentação profissional e projetos.  
-  ✔ Interface moderna  
-  ✔ Foco em UX e performance  
-  🔧 HTML | CSS | JavaScript  
+EM PRODUÇÃO
 
-- **Sistema de Calculadoras Web**  
-  Plataforma com múltiplas calculadoras interativas.  
-  ✔ IMC  
-  ✔ Conversões e cálculos dinâmicos  
-  ✔ Manipulação de DOM  
-  🔧 HTML | CSS | JavaScript  
+Agente de IA que automatiza o suporte de TI via WhatsApp. Integrado ao sistema de chamados como um usuário real, com credenciais e permissões próprias.
 
----
+n8n · WhatsApp Cloud API · APIs REST · JSON
 
-### 🤖 Inteligência Artificial e Automação
+Ver landing page →
 
-- **ATLAS - Assistente de Tecnologia, Lógica e Atendimento de Suporte**  
-  Agente de IA integrado em WhatsApp e em API de Gestão de chamados.  
-  ✔ Automação de abertura de chamados  
-  ✔ Chat e acompanhamento direto com usuário  
-  ✔ Otimização de processos  
-  🔧 n8n | APIs | JavaScript | JSON 
+</td> </tr> <tr> <td width="50%" valign="top">
+PDM — Pátio de Manutenções
 
----
+EM PRODUÇÃO
 
-### 🚧 Projetos em Desenvolvimento
+SaaS de gestão de solicitações de manutenção implantado na Prefeitura de Maracanaú. Portal público com protocolo, dashboard técnico e notificações automáticas.
 
-- **Sistema de Gestão de TI (Expansão)**  
-  Evolução do sistema com novas funcionalidades e melhorias de arquitetura  
+Node.js · Express · PostgreSQL · Webhooks · n8n
 
-- **Sistema Organizador de Casamentos**  
-  Desenvolvimento de uma solução web que permitirá o arranjo e acompanhamento de um casamento  
+repositório privado
 
-- **Gerador de Cronograma para concursos**  
-  Desenvolvimento de uma solução web que vai permitir que concurseiros montem seus cronogramas de estudos de forma estratégica  
+</td> <td width="50%" valign="top">
+Portfólio UX/UI
 
----
+ONLINE
 
+Redesign completo do portfólio pessoal — wireframes no Figma, prototipação e publicação no Framer. Inclui cases de cliente e landing pages.
 
+Figma · Framer · HTML · CSS · JavaScript
+
+Acessar →
+
+</td> </tr> <tr> <td width="50%" valign="top">
+Sistema de Calculadoras
+
+ONLINE
+
+Plataforma com calculadoras interativas — IMC, conversões e cálculos dinâmicos com manipulação de DOM.
+
+HTML · CSS · JavaScript
+
+Ver repositório →
+
+</td> <td width="50%" valign="top">
+MyWedPlan
+
+EM DESENVOLVIMENTO
+
+Sistema de planejamento de casamentos: orçamento, convidados, tarefas, cronograma e fornecedores em um só lugar.
+
+JavaScript · Node.js · Supabase · IA aplicada
+
+em construção
+
+</td> </tr> </table> <br>
+
+Também em andamento: Sistema de Ordens de Serviço (whitelabel adaptável para outros clientes)  ·  Gerador de Cronograma para concursos
+
+<br>
+<br>
+Design
+
+Atuo com o processo completo de interface — da pesquisa ao protótipo navegável.
+
+<table> <tr> <td width="25%" valign="top"><b>UX/UI</b><br><sub>Wireframes, protótipos, testes de usabilidade, micro-interações</sub></td> <td width="25%" valign="top"><b>Web Design</b><br><sub>Sites responsivos, landing pages, otimização de conversão</sub></td> <td width="25%" valign="top"><b>Branding</b><br><sub>Identidade visual, guia de estilo, tipografia e paleta</sub></td> <td width="25%" valign="top"><b>Design Gráfico</b><br><sub>Criativos, peças para social, ilustrações e ícones</sub></td> </tr> </table> <br>
+<br> <div align="center">
+GitHub
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adrianuuuu&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=8B949E&icon_color=38BDF8&include_all_commits=true&locale=pt-br" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianuuuu&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=8B949E&langs_count=8&locale=pt-br" /> </div> <br>
+<br> <div align="center">
+Vamos conversar
+
+Aberto a oportunidades como Desenvolvedor Full Stack e Web Designer UX/UI.
+
+<br>
+
+E-mail LinkedIn Portfólio
+
+<br><br>
+
+<sub>Design que atrai · Experiência que conecta</sub>
+
+</div>
