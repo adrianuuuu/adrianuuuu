@@ -1,5 +1,3 @@
-<img src="./banner capa01.jpg">
-
 Adriano Mesquita
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Web+Designer+UX%2FUI;Interfaces+com+prop%C3%B3sito+e+clareza" alt="Typing SVG" />
 
