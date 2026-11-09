@@ -43,12 +43,12 @@ Como venho do design de interface, começo pelo fluxo de quem vai usar: jornada,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://adrianowebdesigner.framer.website"><img src="./TIsaas.png" alt="Dashboard com indicadores do Sistema de Gestão de TI"/></a>
+      <a href="https://adrianuuuu.github.io/demonstracao-sistema-ti/index.html"><img src="./TIsaas.png" alt="Dashboard com indicadores do Sistema de Gestão de TI"/></a>
       <h3>Sistema de Gestão de TI</h3>
       <p>API REST e interface da central de chamados da SEINFRA: chamados com status e prioridade, controle de inventário e dashboard com indicadores. É nele que o ATLAS abre os chamados.</p>
       <p><b>Em produção · do banco à interface · integrado ao ATLAS</b></p>
       <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Knex</code> <code>JWT</code></p>
-      <p><a href="https://adrianowebdesigner.framer.website">Case</a></p>
+      <p><a href="https://adrianuuuu.github.io/demonstracao-sistema-ti/index.html">Case</a></p>
     </td>
     <td width="50%" valign="top">
       <!-- TROCAR: confirme se o site novo já está no ar nesse endereço -->
