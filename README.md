@@ -52,7 +52,7 @@ Como venho do design de interface, começo pelo fluxo de quem vai usar: jornada,
     </td>
     <td width="50%" valign="top">
       <!-- TROCAR: confirme se o site novo já está no ar nesse endereço -->
-      <a href="https://solisenergia.com.br"><img src="./assets/projetos/solis.jpg" alt="Página inicial do novo site da Solis Energia"/></a>
+      <a href="https://solisenergia.com.br"><img src="./Branding.png" alt="Página inicial do novo site da Solis Energia"/></a>
       <h3>Solis Energia</h3>
       <p>Redesign do site de uma empresa de energia solar, substituindo o WordPress antigo: nova arquitetura da informação, conteúdo orientado à conversão e identidade visual aplicada à interface.</p>
       <p><b>Cliente real · do Figma ao Framer · layout responsivo</b></p>
