@@ -25,7 +25,7 @@ Como venho do design de interface, começo pelo fluxo de quem vai usar: jornada,
   <tr>
     <td width="50%" valign="top">
       <!-- TROCAR: link da demo do ATLAS, se for outro -->
-      <a href="https://adrianuuuu.github.io/atlas-demo/"><img src="./assets/projetos/atlas.jpg" alt="Landing page do ATLAS com simulador de chat"/></a>
+      <a href="https://adrianuuuu.github.io/atlas-demo/"><img src="./Frame 100.png" alt="Landing page do ATLAS com simulador de chat"/></a>
       <h3>ATLAS</h3>
       <p>Agente de IA que atende o suporte de TI pelo WhatsApp. Ele coleta as informações, classifica o pedido e abre o chamado no sistema interno com credenciais próprias, como um usuário de verdade.</p>
       <p><b>Em produção na Prefeitura de Maracanaú · arquitetura orientada a eventos</b></p>
