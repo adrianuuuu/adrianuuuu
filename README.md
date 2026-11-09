@@ -1,6 +1,5 @@
 <a href="https://adrianodsg.framer.website">
-  <img src="" alt="Adriano Mesquita, Desenvolvedor Full Stack e UX/UI. Aberto a vagas, 100% remoto." width="100%"/>
-</a>
+<img src="./MEUBANNER.jfif" alt="Adriano Mesquita, Desenvolvedor Full Stack e UX/UI. Aberto a vagas, 100% remoto." width="100%"/></a>
 
 <p align="center">
   <a href="https://adrianowebdesigner.framer.website"><img src="https://img.shields.io/badge/Portfólio-adrianowebdesigner-7C5CFF?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio"/></a>
