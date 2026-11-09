@@ -26,19 +26,19 @@ Como venho do design de interface, começo pelo fluxo de quem vai usar: jornada,
     <td width="50%" valign="top">
       <!-- TROCAR: link da demo do ATLAS, se for outro -->
       <a href="https://adrianuuuu.github.io/atlas-demo/"><img src="" alt="Landing page do ATLAS com simulador de chat"/></a>
-      <h3>ATLAS</h3>
-      <p>Agente de IA que atende o suporte de TI pelo WhatsApp. Ele coleta as informações, classifica o pedido e abre o chamado no sistema interno com credenciais próprias, como um usuário de verdade.</p>
-      <p><b>Em produção na Prefeitura de Maracanaú · arquitetura orientada a eventos</b></p>
-      <p><code>n8n</code> <code>WhatsApp Cloud API</code> <code>Webhooks</code> <code>PostgreSQL</code> <code>LLM</code></p>
-      <p><a href="https://adrianuuuu.github.io/atlas-demo/">Demo</a> · <a href="https://adrianowebdesigner.framer.website">Case</a></p>
+      <h3>Terral - Arquitetura</h3>
+      <p>Case autoral: identidade visual e site para um escritório de arquitetura fictício, criado para testar o processo completo da ATEC, da marca ao site publicado.</p>
+      <p><b> Identidade visual, grid e tipografia definidos no Figma antes de qualquer tela, para o site nascer da marca.</b></p>
+      <p><code>Framer</code> <code>Figma</code> <code>Claude Code</code> <code>Javascript</code> <code>UX/UI Design</code></p>
+      <a href="https://terralarquitetura.framer.website">Case Online</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://adrianowebdesigner.framer.website"><img src="./assets/projetos/pdm.jpg" alt="Dashboard do técnico no PDM"/></a>
-      <h3>PDM · Pátio de Manutenções</h3>
-      <p>SaaS de solicitações de manutenção. O solicitante abre o pedido no portal público, recebe um protocolo e acompanha o status; o técnico prioriza a fila num dashboard com notificações automáticas.</p>
-      <p><b>Implantado na Prefeitura de Maracanaú · acesso controlado por perfil</b></p>
-      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>JWT</code> <code>n8n</code></p>
-      <p><a href="https://adrianowebdesigner.framer.website">Case</a></p>
+      <h3>FACS - Formulário de Auditoria para Computadores da Seinfra</h3>
+      <p>SaaS de preenchimento de formulário para levantar o inventário de máquinas e equipamentos de um ambiente corporativo. Sistema pensado para facilitar o controle, oroganização e eficiência dos times de TI para manterem a ordem e administração melhor de toda sua rede de computadores.</p>
+      <p><b>Implantado no Setor de TI da Prefeitura de Maracanaú - CE · acesso controlado por perfil</b></p>
+      <p><code>Javascript</code> <code>Framer</code> <code>Figma</code> <code>JWT</code> <code>APIs</code></p>
+      <p><a href="...">Demonstração</a></p>
     </td>
   </tr>
   <tr>
