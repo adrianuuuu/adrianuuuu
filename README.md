@@ -25,7 +25,7 @@ Como venho do design de interface, começo pelo fluxo de quem vai usar: jornada,
   <tr>
     <td width="50%" valign="top">
       <!-- TROCAR: link da demo do ATLAS, se for outro -->
-      <a href="https://terralarquitetura.framer.website"><img src="" alt="Site da Terral Arquitetura"/></a>
+      <a href="https://terralarquitetura.framer.website"><img src="./terral-intro.png" alt="Site da Terral Arquitetura"/></a>
       <h3>Terral - Arquitetura</h3>
       <p>Case autoral: identidade visual e site para um escritório de arquitetura fictício, criado para testar o processo completo da ATEC, da marca ao site publicado.</p>
       <p><b> Identidade visual, grid e tipografia definidos no Figma antes de qualquer tela, para o site nascer da marca.</b></p>
